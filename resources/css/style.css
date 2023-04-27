@@ -6,11 +6,10 @@ body {
 
 /* header */
 
-.header--main {
+.header {
     font-weight: normal;
     font-size: 50px;
-    color: grey;
-    text-align: center;
+    color: white;
 }
 
 .header--secondary {
@@ -25,7 +24,7 @@ body {
 }
     
 
-/* link */
+/* link and logo */
 
  .link {
      color: aquamarine;
